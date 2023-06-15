@@ -20,14 +20,14 @@ Rewards are periodically claimed from the gauge and moved to a synthetix inspire
 
 #### If you are a CRV staker:
 - Deposit CRV in the platform. This CRV is locked forever. Receive cvxCRV token.
-- Deposit cvxCRV in the reward contract. (can be withdrawn at anytime)
+- Deposit cvxCRV in the reward contract. (can be withdrawn at any time)
 - Receive a share of boosted CRV.
 - All normal veCRV rewards (trading fees on Curve) are also distributed.
 - Can exchange cvxCRV for CRV at any time using the incentivized cvxCRV/CRV liquidity pool.
 - Receive the Convex platform’s native token (CVX) pro rata for each CRV you receive.
 
 #### If you are a CVX staker:
-- Deposit CVX on the platform. (can be withdrawn at anytime)
+- Deposit CVX on the platform. (can be withdrawn at any time)
 - Receive a portion of the platform fees in cvxCRV
 
 Convex Finance Launch Airdrop
